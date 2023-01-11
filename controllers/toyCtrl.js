@@ -1,1 +1,1 @@
-import 
+const Toy = require('../models/toyModel')
